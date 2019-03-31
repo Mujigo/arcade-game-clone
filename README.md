@@ -1,20 +1,14 @@
-# Classic Arcade Game Clone Project
-
-## Table of Contents
-
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+# Save The Frogs
 
 ## Instructions
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+Press any key to start the game.
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+Once the game is started then you use the arrow keys to move the frog around the screen. The goal is to get the frog to the top of the screen where the water is. Once there the frog will hop in the water and you'll get a point for saving a frog.
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+Keep saving as many frogs as you can and see if you can save the most.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
-## Contributing
+## How to run the game
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Just download this project and open the index.html file in your favorite browser. Once open you'll be presented with the games instructions.
